@@ -1,0 +1,1 @@
+The Fate Potion texture in UHC is really just a water bottle texture with an enchant glint. It is not possible to add an enchant glint to this Fate animated texture. Instead, the water bottle has a solid color layer applied over it with the color #8040cc and ~15-20% opacity to closely resemble the enchant glint. 

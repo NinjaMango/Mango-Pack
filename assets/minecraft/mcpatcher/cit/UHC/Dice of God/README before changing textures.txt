@@ -1,0 +1,3 @@
+It is not possible to add an enchant glint to this Dice of God animated texture. Instead, the items that would normally have an enchant glint (Excalibur, Expert Seal, Hide of Leviathan, all of the potions, etc.) have a solid color layer applied over them with the color #8040cc and ~15-20% opacity to closely resemble the enchant glint. 
+
+Additionally, because the overlay doesn't have custom potion (Deus Ex Machina, Flask of Ichor, etc.) textures, one drinkable "potion" (water bottle) texture is in the animated texture, to represent Deus Ex Machina, as well as one splash "potion" (splash water bottle) texture to represent Flask of Ichor, Flask of Cleansing, and Potion of Vitality, and both potion textures have the #8040cc purple color "enchantment glint".
